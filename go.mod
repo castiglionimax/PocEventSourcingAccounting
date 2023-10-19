@@ -1,4 +1,4 @@
-module github.com/castiglionimax/challengeXepelin
+module github.com/castiglionimax/PocEventSourcingAccounting
 
 go 1.21.0
 

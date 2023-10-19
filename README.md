@@ -1,4 +1,4 @@
-# Project Name
+# POC
 
 This project involves building a REST API using the Event Sourcing architecture, implemented in Go programming language. The API utilizes Event Sourcing principles, where events are stored in a MongoDB event store. Additionally, projections are created using MySQL. The entire project is containerized using Docker Compose, making it easy to deploy and manage. This setup ensures a scalable and efficient system for handling events and projections, with MongoDB serving as the event store and MySQL for data projections. The Go programming language is used for the implementation, providing a robust foundation for the API
 ## Table of Contents
@@ -11,13 +11,13 @@ This project uses Docker Compose for easy setup and deployment. Make sure you ha
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/castiglionimax/challengeXepelin.git
+   git clone https://github.com/castiglionimax/PocEventSourcingAccounting.git
    ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd challengeXepelin
+cd PocEventSourcingAccounting
    ```
 3. Build and start the project containers:
 

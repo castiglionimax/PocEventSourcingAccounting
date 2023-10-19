@@ -12,7 +12,7 @@ import (
 	"encoding/json"
 	"github.com/confluentinc/confluent-kafka-go/kafka"
 
-	"github.com/castiglionimax/challengeXepelin/internal/controller"
+	"github.com/castiglionimax/PocEventSourcingAccounting/internal/controller"
 )
 
 type (

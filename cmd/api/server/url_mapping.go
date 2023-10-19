@@ -5,7 +5,7 @@ import (
 
 	"github.com/go-chi/chi"
 
-	"github.com/castiglionimax/challengeXepelin/internal/controller"
+	"github.com/castiglionimax/PocEventSourcingAccounting/internal/controller"
 )
 
 type mapping struct {

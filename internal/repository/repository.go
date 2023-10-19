@@ -5,13 +5,13 @@ import (
 	"database/sql"
 	"encoding/json"
 	"errors"
-	pkgError "github.com/castiglionimax/challengeXepelin/pkg/error"
+	pkgError "github.com/castiglionimax/PocEventSourcingAccounting/pkg/error"
 
 	"github.com/confluentinc/confluent-kafka-go/kafka"
 	"github.com/google/uuid"
 	"go.mongodb.org/mongo-driver/mongo"
 
-	"github.com/castiglionimax/challengeXepelin/internal/domain"
+	"github.com/castiglionimax/PocEventSourcingAccounting/internal/domain"
 )
 
 type (

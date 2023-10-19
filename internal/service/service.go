@@ -3,7 +3,7 @@ package service
 import (
 	"context"
 	"errors"
-	"github.com/castiglionimax/challengeXepelin/internal/domain"
+	"github.com/castiglionimax/PocEventSourcingAccounting/internal/domain"
 )
 
 type (

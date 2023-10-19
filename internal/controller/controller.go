@@ -11,8 +11,8 @@ import (
 
 	"github.com/go-chi/render"
 
-	"github.com/castiglionimax/challengeXepelin/internal/domain"
-	pkgError "github.com/castiglionimax/challengeXepelin/pkg/error"
+	"github.com/castiglionimax/PocEventSourcingAccounting/internal/domain"
+	pkgError "github.com/castiglionimax/PocEventSourcingAccounting/pkg/error"
 )
 
 type (

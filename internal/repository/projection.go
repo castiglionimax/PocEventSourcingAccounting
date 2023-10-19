@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	"time"
 
-	"github.com/castiglionimax/challengeXepelin/internal/domain"
+	"github.com/castiglionimax/PocEventSourcingAccounting/internal/domain"
 )
 
 type (

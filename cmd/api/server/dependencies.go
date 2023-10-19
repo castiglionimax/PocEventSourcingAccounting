@@ -14,9 +14,9 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 	"go.mongodb.org/mongo-driver/mongo/readpref"
 
-	"github.com/castiglionimax/challengeXepelin/internal/controller"
-	"github.com/castiglionimax/challengeXepelin/internal/repository"
-	"github.com/castiglionimax/challengeXepelin/internal/service"
+	"github.com/castiglionimax/PocEventSourcingAccounting/internal/controller"
+	"github.com/castiglionimax/PocEventSourcingAccounting/internal/repository"
+	"github.com/castiglionimax/PocEventSourcingAccounting/internal/service"
 )
 
 func resolveController() controller.Controller {
